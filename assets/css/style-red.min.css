@@ -111,7 +111,7 @@ table td, table th {
 	background: rgba(230, 43, 76, .1)
 }
 a {
-	color: #d4193a
+		color: #292b2d;
 }
 a.active, a:focus, a:hover {
 	color: #9cca28;
@@ -5718,7 +5718,7 @@ textarea.form-control {
 	font-size: 26px;
 	font-size: 2.6rem;
 	margin-right: 1rem;
-	color: #282b2e;
+	color: #9cca28;
 	display: inline-block
 }
 .lgx-header .lgx-nav-right .lgx-search a {
